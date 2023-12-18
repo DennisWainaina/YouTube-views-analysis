@@ -1,0 +1,1 @@
+In this project we want to see the factors that influence the popularity of a Youtube video or rather the factors that make one Youtube video have more views than another.
